@@ -7,3 +7,5 @@ java
 asp.net
 php
 node js
+
+php and JS was the scripting language . but now a days they are programming language too
